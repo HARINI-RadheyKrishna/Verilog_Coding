@@ -1,8 +1,8 @@
 module tb;
-integer i;
-reg en;
-reg [3:0] in;
-wire [15:0] out;
+    integer i;
+    reg en;
+    reg [3:0] in;
+    wire [15:0] out;
 
     decoder3x8 u0 ( .en(en), .in(in), .out(out));
 
