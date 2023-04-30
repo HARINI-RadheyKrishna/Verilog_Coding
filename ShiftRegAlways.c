@@ -4,7 +4,7 @@ module lshift (  input d,
                         output reg [3:0] out
                      );
 
-   always @ (posedge clk) begin
+   always @ (posedge clk or rstn) begin
       if (!rstn) begin
          out <= 0;
       end else begin
