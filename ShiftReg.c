@@ -1,5 +1,5 @@
 module dff (input d, input clk, input rstneg, output q);
-	always @ (posedge clk or rstneg) begin
+	always @ (posedge clk or negedge rstneg) begin
 		if (!rstneg)
 			q <= 0;
 		else

@@ -1,6 +1,6 @@
 module jk(input j, k, clk, rstn, output q, qbar);
 
-    always @ (posedge clk) begin
+    always @ (posedge clk, negedge rstn) begin
         if (!rstn) begin
             q <= 0;
             qbar <= 1;

@@ -7,17 +7,19 @@ module seqdet (input clk, input rstn, input in, output out);
                 S1011 = 4;
     
     reg [2 : 0] state, next_state;
-
-    assign out = (state == S1011)? 1 : 0;
+    reg out;
+    //assign out = (state == S1011)? 1 : 0;
 
     always @ (posedge clk) begin
         if (!rstn)
             state <= IDLE;
-        else
+        else begin
             state <= next_state;
+            out <= (state == S1011)? out_temp : 0;
+        end
     end
     
-    always @ (in or state) begin
+    always @ (in, state) begin
         case (state)
             IDLE: begin
                 if (in)
@@ -48,6 +50,7 @@ module seqdet (input clk, input rstn, input in, output out);
 
             S1011: begin
                 next_state = IDLE;
+                out_temp = 1;
             end 
         endcase
     end 

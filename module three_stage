@@ -1,0 +1,37 @@
+module three_stage(clk, d, rs1, rs2, rstn, rd1)
+
+    input reg [2:0] d;
+    input reg [7:0] rs1, rs2;
+    output reg [7:0] rd1;
+    output wire [7:0] q_wb;
+    input [2:0] state, next_state;
+
+    parameter ADD = 3'b000;
+                SUB = 3'b001;
+                NOP = 3'b010;
+                MOV = 3'b011;
+                IDLE = 3'b100;
+                PC = 3'b101;
+                OPS = 3'b110;
+                WB = 3'b111;
+
+    always @ (posegdge clk or negedge rstn) begin
+        if  (!rstn) begin
+            q_wb <= 0;
+            state <= 2'b00;
+        end
+
+        else begin  
+            q_wb <= next_state;
+        end
+
+    always @(*) begin
+        if (state == IDLE) begin
+            next_state = PC;
+        end
+
+        if (state == PC) begin
+            PC_new <= PC + 1;
+            n
+        end 
+        

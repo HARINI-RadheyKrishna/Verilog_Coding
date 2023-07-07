@@ -1,6 +1,6 @@
 module mod10(input clk, rstn, output o);
 
-    always @(posedge clk) begin
+    always @(posedge clk, negedge rstn) begin
         if(!rstn) begin
             o <= 0;
         end 

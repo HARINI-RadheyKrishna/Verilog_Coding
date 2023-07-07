@@ -1,0 +1,1630 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Fangzhou/Desktop/MTE_SIM
+Ealu
+Z0 w1490405838
+Z1 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Fangzhou/Desktop/EE560CMP
+Z6 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/alu.vhd
+Z7 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/alu.vhd
+l0
+L14
+VRQTLUAKdg;9J8SmhE2WL21
+!s100 iHNS:[O9^8HgLc[FUOEHN1
+Z8 OL;C;10.4c;61
+32
+Z9 !s110 1499641794
+!i10b 1
+Z10 !s108 1499641794.000000
+Z11 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/alu.vhd|
+Z12 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/alu.vhd|
+!i113 0
+Z13 o-work EE560CMP -2002 -explicit
+Z14 tExplicit 1
+Acomput
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 RQTLUAKdg;9J8SmhE2WL21
+l25
+L23
+V[goX`zAazN<N3J>dQFTjV0
+!s100 6F353AHnI]ZzkIaT>c54Z2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+vbram_memory
+Z15 !s110 1499641793
+!i10b 1
+!s100 f8Q0aW_9m6iVZQjVdZoTA0
+I51AQJWeZ83BU03;PN?2lU1
+Z16 VDg1SIo80bB@j0V0VzS_@n1
+R5
+Z17 w1485805898
+8C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_write_first.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_write_first.v
+L0 6
+Z18 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z19 !s108 1499641793.000000
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_write_first.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_write_first.v|
+!i113 0
+Z20 o-work EE560CMP -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vbram_memory_Data_MM
+Z21 !s110 1499641792
+!i10b 1
+!s100 9O2^GZgazco_HgZ1[@PIL0
+IXnX>Ag_7_4=EG7@J0=kN81
+R16
+R5
+R17
+8C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_Data_MM_readmemh.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_Data_MM_readmemh.v
+Z22 L0 15
+R18
+r1
+!s85 0
+31
+Z23 !s108 1499641792.000000
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_Data_MM_readmemh.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_Data_MM_readmemh.v|
+!i113 0
+R20
+nbram_memory_@data_@m@m
+vbram_memory_inst0
+R15
+!i10b 1
+!s100 C:VB541Zh7XLl382HGoVl1
+I[;L5Ba0X@ofK87l6gAHRM1
+R16
+R5
+w1485748130
+8C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst0_readmemh.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst0_readmemh.v
+L0 20
+R18
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst0_readmemh.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst0_readmemh.v|
+!i113 0
+R20
+vbram_memory_inst1
+R15
+!i10b 1
+!s100 dFIbXH`;R0a:zbPD:6X[21
+I<E`54`N5aDebdG4Lc76TZ1
+R16
+R5
+w1485656392
+8C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst1_readmemh.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst1_readmemh.v
+Z24 L0 18
+R18
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst1_readmemh.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst1_readmemh.v|
+!i113 0
+R20
+vbram_memory_inst2
+R15
+!i10b 1
+!s100 nNPmFnMdPNAkGJNJP=XG02
+If^jW:>YB]=Xh<=C[J:<J@0
+R16
+R5
+w1485656398
+8C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst2_readmemh.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst2_readmemh.v
+R24
+R18
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst2_readmemh.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst2_readmemh.v|
+!i113 0
+R20
+vbram_memory_inst3
+R15
+!i10b 1
+!s100 a1c:IJHSA7JnK2iZ6>`7B2
+Iz6=zUK8VeFa]8RfT<bbYd3
+R16
+R5
+w1485656404
+8C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst3_readmemh.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst3_readmemh.v
+L0 19
+R18
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst3_readmemh.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bram_memory_inst3_readmemh.v|
+!i113 0
+R20
+vbus_arbitration
+R21
+!i10b 1
+!s100 5ZJ`hRDm<;P53lc2XL>?E3
+I]]z9YZU0jnXLSoQ;4<En;2
+R16
+R5
+w1493057710
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/bus_arbitration.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/bus_arbitration.v
+L0 5
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/bus_arbitration.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/bus_arbitration.v|
+!i113 0
+R20
+Ebus_monitor
+Z25 w1486346168
+Z26 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z27 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z28 DPx4 work 26 reverseassemblyfunctionpkg 0 22 ^mVQ4]7JQIAOUJR4^g3>]3
+Z29 DPx4 work 8 txt_util 0 22 `kU;mb7J2;m?W1A6?PjlA3
+R1
+R2
+R3
+R4
+R5
+Z30 8C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bus_monitor.vhd
+Z31 FC:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bus_monitor.vhd
+l0
+L13
+V7<kbaJZVG<0D`LBDU94U90
+!s100 gQ?k0kNPM^`GK;dJioajV1
+R8
+32
+Z32 !s110 1499641795
+!i10b 1
+Z33 !s108 1499641795.000000
+Z34 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bus_monitor.vhd|
+Z35 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/bus_monitor.vhd|
+!i113 0
+R13
+R14
+Abus_report
+R26
+R27
+R28
+R29
+R1
+R2
+R3
+R4
+DEx4 work 11 bus_monitor 0 22 7<kbaJZVG<0D`LBDU94U90
+l50
+L35
+V4V:S68c19YG1hNee7hXan3
+!s100 ;fk]6R<OC]Dn?MS<5_M:52
+R8
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 0
+R13
+R14
+vcache
+R21
+!i10b 1
+!s100 <`Rb1aRHVlzSC]S`6R3jo0
+IRKj;Em56@NkTV>5nlVg?e0
+R16
+R5
+w1491256694
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/cache_new.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/cache_new.v
+L0 28
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/cache_new.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/cache_new.v|
+!i113 0
+R20
+Ecache_monitor
+R17
+R26
+R27
+R28
+R29
+R1
+R2
+R3
+R4
+R5
+Z36 8C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/cache_monitor_assert_corrected.vhd
+Z37 FC:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/cache_monitor_assert_corrected.vhd
+l0
+L15
+VL4BjS0n>8kkaE83ajhdAF0
+!s100 8`MmfVEHKRR:G]DACT``<1
+R8
+32
+R32
+!i10b 1
+R33
+Z38 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/cache_monitor_assert_corrected.vhd|
+Z39 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/cache_monitor_assert_corrected.vhd|
+!i113 0
+R13
+R14
+Amake_report
+R26
+R27
+R28
+R29
+R1
+R2
+R3
+R4
+DEx4 work 13 cache_monitor 0 22 L4BjS0n>8kkaE83ajhdAF0
+l138
+L111
+V>CS3AZXDLe3kHb6W52cM>0
+!s100 AX?RZ:oO7=3YOhIKQ>DM@2
+R8
+32
+R32
+!i10b 1
+R33
+R38
+R39
+!i113 0
+R13
+R14
+vCCU
+R21
+!i10b 1
+!s100 9FYhNGk]ZNZhGK^VfmHmS2
+ISZ]=JA:`YQ6iKQZd98nQY2
+R16
+R5
+w1491253064
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/ccu.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/ccu.v
+L0 10
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/ccu.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/ccu.v|
+!i113 0
+R20
+n@c@c@u
+vcmp_tb
+R15
+!i10b 1
+!s100 gj0i:6ZaMcA<ZXK^nIEaH2
+ISlcB1hn<RnI:_coPZBXJU2
+R16
+R5
+w1488237658
+8C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/cmp_tb.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/cmp_tb.v
+L0 14
+R18
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/cmp_tb.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/cmp_tb.v|
+!i113 0
+R20
+vCMP_top
+R21
+!i10b 1
+!s100 82N]l@jG1OA768L;>Qa1G0
+I@V<Y7E:_m:mgFlbTK>:jG3
+R16
+R5
+w1488249146
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/CMP_top.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/CMP_top.v
+L0 21
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/CMP_top.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/CMP_top.v|
+!i113 0
+R20
+n@c@m@p_top
+Ecmt_top
+Z40 w1494185040
+R26
+R27
+R28
+Z41 DPx12 modelsim_lib 4 util 0 22 I9VUm]?fD[2nYZzgoDM?l2
+R29
+R1
+R2
+R3
+R4
+R5
+Z42 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/cmt_top.vhd
+Z43 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/cmt_top.vhd
+l0
+L31
+V_edORPFV?P8>L@W3LIPY:3
+!s100 G5JcBInPRE?Jn9I>fn2kS1
+R8
+32
+R9
+!i10b 1
+R10
+Z44 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/cmt_top.vhd|
+Z45 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/cmt_top.vhd|
+!i113 0
+R13
+R14
+Abehave
+R26
+R27
+R28
+R41
+R29
+R1
+R2
+R3
+R4
+DEx4 work 7 cmt_top 0 22 _edORPFV?P8>L@W3LIPY:3
+l852
+L90
+VV5aN^a>LjdC^Pa@SjK4TI3
+!s100 1?3>SMkTIVG76WOIN4^EK0
+R8
+32
+R9
+!i10b 1
+R10
+R44
+R45
+!i113 0
+R13
+R14
+Edata_cache
+Z46 w1491253164
+R41
+R26
+R27
+R28
+R29
+R2
+R3
+R4
+R5
+Z47 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/data_cache.vhd
+Z48 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/data_cache.vhd
+l0
+L23
+Vh2=[X^TUZHWXJb9[XEFjE3
+!s100 ;zhlC2OUzAE3L@AFQ4>iS1
+R8
+32
+R32
+!i10b 1
+R10
+Z49 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/data_cache.vhd|
+Z50 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/data_cache.vhd|
+!i113 0
+R13
+R14
+Abehv
+R41
+R26
+R27
+R28
+R29
+R2
+R3
+R4
+DEx4 work 10 data_cache 0 22 h2=[X^TUZHWXJb9[XEFjE3
+l691
+L208
+VZ196gO_9]aQ:iU:9V63WM2
+!s100 8zW<?]RLEFFBZ2c?DZP5j2
+R8
+32
+R32
+!i10b 1
+R10
+R49
+R50
+!i113 0
+R13
+R14
+Edecode
+Z51 w1490230174
+R2
+R3
+R4
+R5
+Z52 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/decode.vhd
+Z53 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/decode.vhd
+l0
+L17
+V_E^^n_`WhLz41U_IESQol3
+!s100 cBUo75D<_PbW=UWCbo[A92
+R8
+32
+R32
+!i10b 1
+R33
+Z54 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/decode.vhd|
+Z55 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/decode.vhd|
+!i113 0
+R13
+R14
+Abehv
+R2
+R3
+R4
+DEx4 work 6 decode 0 22 _E^^n_`WhLz41U_IESQol3
+l140
+L76
+VVF2U[_;`]1dP^G[hT43Z@2
+!s100 5_Y[n79L>N9K6YIdaWdCZ1
+R8
+32
+R32
+!i10b 1
+R33
+R54
+R55
+!i113 0
+R13
+R14
+Edivider
+Z56 w1494132602
+R2
+R3
+R4
+R5
+Z57 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/divider.vhd
+Z58 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/divider.vhd
+l0
+L35
+VGOD0bF]QmoneUe>8MzN0B0
+!s100 P0:h4l;cM@KjC6Fz:e_WO1
+R8
+32
+R32
+!i10b 1
+R33
+Z59 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/divider.vhd|
+Z60 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/divider.vhd|
+!i113 0
+R13
+R14
+Abehv
+R2
+R3
+R4
+DEx4 work 7 divider 0 22 GOD0bF]QmoneUe>8MzN0B0
+l121
+L77
+VhU<m`0AEFg`CO6WegE1mC0
+!s100 THbag5j9LKzV0bUoi;nQ93
+R8
+32
+R32
+!i10b 1
+R33
+R59
+R60
+!i113 0
+R13
+R14
+Edivider_core
+Z61 w1485802296
+R2
+R3
+R4
+R5
+Z62 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/divider_core.vhd
+Z63 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/divider_core.vhd
+l0
+L20
+V=nE3bzgYaXLIB4dMBn3281
+!s100 [5`]Bba6LaLXWm5N3A@@E3
+R8
+32
+R32
+!i10b 1
+R33
+Z64 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/divider_core.vhd|
+Z65 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/divider_core.vhd|
+!i113 0
+R13
+R14
+Abehv
+R2
+R3
+R4
+DEx4 work 12 divider_core 0 22 =nE3bzgYaXLIB4dMBn3281
+l29
+L27
+VhU]d:oE>;?WeH4?95mN9F3
+!s100 HF`RALi8jRVWj[^eAhAc:0
+R8
+32
+R32
+!i10b 1
+R33
+R64
+R65
+!i113 0
+R13
+R14
+Efshr
+Z66 w1491681662
+R2
+R3
+R4
+R5
+Z67 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/fshr.vhd
+Z68 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/fshr.vhd
+l0
+L13
+VNjiYG6b]Q0JW`cC0QaI063
+!s100 gWoTZI?U1]hZX0N58=G]m1
+R8
+32
+R32
+!i10b 1
+R33
+Z69 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/fshr.vhd|
+Z70 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/fshr.vhd|
+!i113 0
+R13
+R14
+Abehv
+R2
+R3
+R4
+DEx4 work 4 fshr 0 22 NjiYG6b]Q0JW`cC0QaI063
+l66
+L50
+VNN=@d_bMXA4mVV?HRIBDg2
+!s100 I`QDCME<9@X9<X53E84Rk0
+R8
+32
+R32
+!i10b 1
+R33
+R69
+R70
+!i113 0
+R13
+R14
+Ei_fetch_fifo_ram_reg_array
+R61
+R2
+R26
+R3
+R4
+R5
+Z71 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/i_fetch_fifo_ram_reg_array.vhd
+Z72 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/i_fetch_fifo_ram_reg_array.vhd
+l0
+L17
+V8OzKmY=lnzRlY?iLZnG892
+!s100 diMDgLf=9GVR828L9k67E2
+R8
+32
+R32
+!i10b 1
+R33
+Z73 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/i_fetch_fifo_ram_reg_array.vhd|
+Z74 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/i_fetch_fifo_ram_reg_array.vhd|
+!i113 0
+R13
+R14
+Asyn
+R2
+R26
+R3
+R4
+DEx4 work 26 i_fetch_fifo_ram_reg_array 0 22 8OzKmY=lnzRlY?iLZnG892
+l38
+L32
+VH?;D[i6Rdb89K[ABVc9H32
+!s100 ]^N4do]b?_j9@Y4bJ<l<I3
+R8
+32
+R32
+!i10b 1
+R33
+R73
+R74
+!i113 0
+R13
+R14
+Ei_fetch_q
+Z75 w1492551552
+R2
+R3
+R4
+R5
+Z76 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/i_fetch_q.vhd
+Z77 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/i_fetch_q.vhd
+l0
+L26
+VmnVOjbELQbMSVjSKhFPDW3
+!s100 5<bYikGaf;WN;<EkER6Qn2
+R8
+32
+R32
+!i10b 1
+R33
+Z78 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/i_fetch_q.vhd|
+Z79 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/i_fetch_q.vhd|
+!i113 0
+R13
+R14
+Ai_fetch_q_arc
+R2
+R3
+R4
+DEx4 work 9 i_fetch_q 0 22 mnVOjbELQbMSVjSKhFPDW3
+l126
+L65
+VlU1J^NVdM[k6WP___]e442
+!s100 XBQ0KmDPTHGzF]7jc:1841
+R8
+32
+R32
+!i10b 1
+R33
+R78
+R79
+!i113 0
+R13
+R14
+Eicache_read_mshr
+R75
+R2
+R3
+R4
+R5
+Z80 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/icache_read_mshr.vhd
+Z81 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/icache_read_mshr.vhd
+l0
+L20
+VhA^[6Y>5kHNAQJ8SPJ`9]3
+!s100 `WnA_RB`zZb9YXeYbR^AW1
+R8
+32
+R32
+!i10b 1
+R33
+Z82 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/icache_read_mshr.vhd|
+Z83 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/icache_read_mshr.vhd|
+!i113 0
+R13
+R14
+Abehv
+R2
+R3
+R4
+DEx4 work 16 icache_read_mshr 0 22 hA^[6Y>5kHNAQJ8SPJ`9]3
+l48
+L40
+Ve?bc65PCDBG1lS;;dj?MV2
+!s100 P3j[ZABgK23eafl6OV9Vm3
+R8
+32
+R32
+!i10b 1
+R33
+R82
+R83
+!i113 0
+R13
+R14
+Eifq_arbiter
+Z84 w1490405570
+R26
+R2
+R3
+R4
+R5
+Z85 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/ifq_arbiter.vhd
+Z86 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/ifq_arbiter.vhd
+l0
+L17
+V;mB8zi^da4LgL@KJGNb6V0
+!s100 kLiDblBaIo^D4;M1Fi:TL1
+R8
+32
+R15
+!i10b 1
+R19
+Z87 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/ifq_arbiter.vhd|
+Z88 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/ifq_arbiter.vhd|
+!i113 0
+R13
+R14
+Aroundrobin
+R26
+R2
+R3
+R4
+DEx4 work 11 ifq_arbiter 0 22 ;mB8zi^da4LgL@KJGNb6V0
+l97
+L61
+VmiH^]L3AkH[02BSTSNACB2
+!s100 baAQKkH<P9JM77BN_K`@<3
+R8
+32
+R15
+!i10b 1
+R19
+R87
+R88
+!i113 0
+R13
+R14
+vimem_top
+Z89 !s110 1499641791
+!i10b 1
+!s100 f`V1]6Z=OA=Sz3FTB[7271
+IQRKgVodgH]mXcncA`b[^H1
+R16
+R5
+w1489199178
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/imem_top.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/imem_top.v
+L0 23
+R18
+r1
+!s85 0
+31
+Z90 !s108 1499641791.000000
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/imem_top.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/imem_top.v|
+!i113 0
+R20
+Einstruction_cache
+Z91 w1490068590
+R2
+R3
+R4
+R5
+Z92 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/instruction_cache.vhd
+Z93 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/instruction_cache.vhd
+l0
+L24
+V6[K^KU@4`182YF6gmkkhD2
+!s100 1gAm_@`aSQoYRSkV:Xo@20
+R8
+32
+R15
+!i10b 1
+R19
+Z94 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/instruction_cache.vhd|
+Z95 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/instruction_cache.vhd|
+!i113 0
+R13
+R14
+Abehv
+R2
+R3
+R4
+DEx4 work 17 instruction_cache 0 22 6[K^KU@4`182YF6gmkkhD2
+l236
+L71
+VEN^GT9f;l6WB8IiS9L[a^0
+!s100 OC:GRRZaNg:14KIJHD9nE3
+R8
+32
+R15
+!i10b 1
+R19
+R94
+R95
+!i113 0
+R13
+R14
+Einstruction_memory_unit
+Z96 w1490068656
+R26
+R2
+R3
+R4
+R5
+Z97 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/instruction_memory_unit.vhd
+Z98 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/instruction_memory_unit.vhd
+l0
+L20
+VNBZRMYh00IHS;l67;O<Qo3
+!s100 WklDFX_Zm=Ub2<_dQF<7f2
+R8
+32
+R15
+!i10b 1
+R19
+Z99 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/instruction_memory_unit.vhd|
+Z100 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/instruction_memory_unit.vhd|
+!i113 0
+R13
+R14
+Astruct
+R26
+R2
+R3
+R4
+DEx4 work 23 instruction_memory_unit 0 22 NBZRMYh00IHS;l67;O<Qo3
+l220
+L91
+VTceYEZSSOWBnChPIG_9lE0
+!s100 o;?DG[k9bI;di[hSFZczS3
+R8
+32
+R15
+!i10b 1
+R19
+R99
+R100
+!i113 0
+R13
+R14
+vLL_Array
+R89
+!i10b 1
+!s100 D^81A@nkGBJI?3_eoJdE<0
+ISDfWTX0?ib;f]L?<FkoY]1
+R16
+R5
+w1490678802
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/LL_Array.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/LL_Array.v
+R22
+R18
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/LL_Array.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/LL_Array.v|
+!i113 0
+R20
+n@l@l_@array
+vLOCAL_CCU_SCU_CACHE
+R21
+!i10b 1
+!s100 R8[:7MYBEKQzfP<U?3fDQ3
+I;1_;3oG2kHAMl]TS7cU;?2
+R16
+R5
+w1491256662
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/local_scu_ccu_cache.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/local_scu_ccu_cache.v
+L0 7
+R18
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/local_scu_ccu_cache.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/local_scu_ccu_cache.v|
+!i113 0
+R20
+n@l@o@c@a@l_@c@c@u_@s@c@u_@c@a@c@h@e
+Ememory_stage
+Z101 w1491253180
+R26
+R2
+R3
+R4
+R5
+Z102 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/memory_stage.vhd
+Z103 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/memory_stage.vhd
+l0
+L14
+V>g5hhbKjKIGH@EkfFMgGB3
+!s100 66OTbWi<o_cOlN^_EkOS11
+R8
+32
+R15
+!i10b 1
+R19
+Z104 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/memory_stage.vhd|
+Z105 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/memory_stage.vhd|
+!i113 0
+R13
+R14
+Abehv
+R26
+R2
+R3
+R4
+DEx4 work 12 memory_stage 0 22 >g5hhbKjKIGH@EkfFMgGB3
+l521
+L109
+V]``KOFHj[n;Z1c2Y4h1eo1
+!s100 NX]8zC3cFMJd19L0n2Bm50
+R8
+32
+R15
+!i10b 1
+R19
+R104
+R105
+!i113 0
+R13
+R14
+vMM
+R21
+!i10b 1
+!s100 SmULLl@fh25W]RB>M0bUE1
+I=@WLG`Dk2KDWenTVHzzIW0
+R16
+R5
+w1486349416
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/MM.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/MM.v
+L0 9
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/MM.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/MM.v|
+!i113 0
+R20
+n@m@m
+Emm_reads_n_writes
+R17
+R26
+R27
+R28
+R29
+R1
+R2
+R3
+R4
+R5
+Z106 8C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/MM_Reads_n_Writes.vhd
+Z107 FC:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/MM_Reads_n_Writes.vhd
+l0
+L15
+V<nzUGhXj5HeBPeYS8fZej1
+!s100 P^?c81gl0LXnCI^BhZ7DS2
+R8
+32
+Z108 !s110 1499641796
+!i10b 1
+R33
+Z109 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/MM_Reads_n_Writes.vhd|
+Z110 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Simulation_only_files/MM_Reads_n_Writes.vhd|
+!i113 0
+R13
+R14
+Amake_report
+R26
+R27
+R28
+R29
+R1
+R2
+R3
+R4
+DEx4 work 17 mm_reads_n_writes 0 22 <nzUGhXj5HeBPeYS8fZej1
+l45
+L33
+Vgmk=Bna>>aV>:V=4jhDOg2
+!s100 ST@CZYGO=j6SST<T]E7WF0
+R8
+32
+R108
+!i10b 1
+R33
+R109
+R110
+!i113 0
+R13
+R14
+Emultiplier
+Z111 w1494390088
+R2
+R3
+R4
+R5
+Z112 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/multiplier.vhd
+Z113 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/multiplier.vhd
+l0
+L30
+V]meBSIXhINIa4b<IMm]F[1
+!s100 <3gH;nc16]=7A;O3`<@Dz1
+R8
+32
+R15
+!i10b 1
+R19
+Z114 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/multiplier.vhd|
+Z115 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/multiplier.vhd|
+!i113 0
+R13
+R14
+Amultiply
+R2
+R3
+R4
+DEx4 work 10 multiplier 0 22 ]meBSIXhINIa4b<IMm]F[1
+l106
+L76
+V?]Wo4>aBZ[?Cl>KFzk9O[3
+!s100 2EoO?@cHnAB>adE@bDfk;1
+R8
+32
+R15
+!i10b 1
+R19
+R114
+R115
+!i113 0
+R13
+R14
+Emultiplier_core
+Z116 w1485802298
+R2
+R3
+R4
+R5
+Z117 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/multiplier_core.vhd
+Z118 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/multiplier_core.vhd
+l0
+L25
+V9;z7G3c7MY8;BH@PI3zYi3
+!s100 @aGkYVH^KJR^>iJkLPa<l1
+R8
+32
+R9
+!i10b 1
+R19
+Z119 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/multiplier_core.vhd|
+Z120 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/multiplier_core.vhd|
+!i113 0
+R13
+R14
+Abehv
+R2
+R3
+R4
+DEx4 work 15 multiplier_core 0 22 9;z7G3c7MY8;BH@PI3zYi3
+l51
+L34
+VXYDe;eE[2^`;@VMPM]=zN3
+!s100 2]UcoZV9F`?1oXKe1a<`I1
+R8
+32
+R9
+!i10b 1
+R19
+R119
+R120
+!i113 0
+R13
+R14
+Eread_mshr
+Z121 w1490922560
+R2
+R3
+R4
+R5
+Z122 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/read_mshr.vhd
+Z123 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/read_mshr.vhd
+l0
+L13
+VH941Eg`Cf@EQ7d=IXm^Ib2
+!s100 C?_ZZQ1MV=[3k2ROIbH<53
+R8
+32
+R9
+!i10b 1
+R10
+Z124 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/read_mshr.vhd|
+Z125 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/read_mshr.vhd|
+!i113 0
+R13
+R14
+Abehv
+R2
+R3
+R4
+DEx4 work 9 read_mshr 0 22 H941Eg`Cf@EQ7d=IXm^Ib2
+l88
+L63
+V]5?Lc7=XY866>=DTj=7:?1
+!s100 ]20OGHdzzgMDSL4dQTjMN1
+R8
+32
+R9
+!i10b 1
+R10
+R124
+R125
+!i113 0
+R13
+R14
+vread_write_arbiter
+R21
+!i10b 1
+!s100 hBO3NJ[OfDSlCl8BY`UH^2
+Ib<oMhF0O[kmS<8okF:z@31
+R16
+R5
+w1491615154
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/read_write_arbiter.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/read_write_arbiter.v
+L0 9
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/read_write_arbiter.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/read_write_arbiter.v|
+!i113 0
+R20
+Eregister_file
+Z126 w1492551554
+R26
+R27
+R28
+R29
+R1
+R2
+R3
+R4
+R5
+Z127 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/register_file.vhd
+Z128 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/register_file.vhd
+l0
+L12
+V@V`5`3k]RWGeNg39Sa^XO0
+!s100 SibzC^X>WZek8:QVa<l2e1
+R8
+32
+R108
+!i10b 1
+Z129 !s108 1499641796.000000
+Z130 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/register_file.vhd|
+Z131 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/register_file.vhd|
+!i113 0
+R13
+R14
+Aregfile
+R26
+R27
+R28
+R29
+R1
+R2
+R3
+R4
+Z132 DEx4 work 13 register_file 0 22 @V`5`3k]RWGeNg39Sa^XO0
+l53
+L41
+Z133 V`TdHm?9`K0?@=Td1E<EH^1
+Z134 !s100 oJWAcXl:T5JXW[dhMHmhb3
+R8
+32
+R108
+!i10b 1
+R129
+R130
+R131
+!i113 0
+R13
+R14
+Preverseassemblyfunctionpkg
+R2
+R26
+R4
+R27
+R3
+R116
+R5
+Z135 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/reverseAssemblyFunctionPkg.vhd
+Z136 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/reverseAssemblyFunctionPkg.vhd
+l0
+L26
+V^mVQ4]7JQIAOUJR4^g3>]3
+!s100 i<h96;^hb;VQXl6ISDhBW1
+R8
+32
+b1
+R9
+!i10b 1
+R10
+Z137 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/reverseAssemblyFunctionPkg.vhd|
+Z138 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/reverseAssemblyFunctionPkg.vhd|
+!i113 0
+R13
+R14
+Bbody
+R28
+R2
+R26
+R4
+R27
+R3
+l0
+L39
+V=ik]:B[kCP]IjzU15OZj>0
+!s100 jZ`=A_i18A4gHd[km4CoM2
+R8
+32
+R9
+!i10b 1
+R10
+R137
+R138
+!i113 0
+R13
+R14
+Z139 nbody
+Erotating_buffer
+R116
+Z140 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R26
+R3
+R4
+R5
+Z141 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_buffer.vhd
+Z142 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_buffer.vhd
+l0
+L14
+Vb6@b4WO<d=AC>Xc21F]3P2
+!s100 `47i8U7D?Yh5haEleMnKl0
+R8
+32
+R9
+!i10b 1
+R10
+Z143 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_buffer.vhd|
+Z144 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_buffer.vhd|
+!i113 0
+R13
+R14
+Abehavioral
+R140
+R2
+R26
+R3
+R4
+DEx4 work 15 rotating_buffer 0 22 b6@b4WO<d=AC>Xc21F]3P2
+l35
+L29
+VTY7?gC9n3VP=8Z6oiP5HG0
+!s100 0VaOgdiU0biCO>ieG=d`H2
+R8
+32
+R9
+!i10b 1
+R10
+R143
+R144
+!i113 0
+R13
+R14
+vrotating_prioritizer
+R21
+!i10b 1
+!s100 FHneTJdPIhi=11Y8i2[<o1
+I0Uio6S@gO4U3nEY275AXW3
+R16
+R5
+w1493057830
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_prioritizer.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_prioritizer.v
+L0 12
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_prioritizer.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_prioritizer.v|
+!i113 0
+R20
+vrotating_prioritizer_4
+R21
+!i10b 1
+!s100 =z;CL2O2HIJn^nKlizT;I1
+IL;E_ROzn0ZY:[Ec3VIGa<1
+R16
+R5
+w1492551556
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_prioritizer_4.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_prioritizer_4.v
+L0 8
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_prioritizer_4.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/rotating_prioritizer_4.v|
+!i113 0
+R20
+vSCU
+R21
+!i10b 1
+!s100 XF:On^_2FSW;KmnzXzMTe3
+ITz2MGhT2bNZCoJZ[EibZd1
+R16
+R5
+w1491190106
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu.v
+L0 5
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu.v|
+!i113 0
+R20
+n@s@c@u
+vSCU_request
+R21
+!i10b 1
+!s100 <UV@ce?_`4ko[HRWQAEGB2
+I4`McNem>ZIbZT>X[a^cjf0
+R16
+R5
+R66
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu_request.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu_request.v
+R24
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu_request.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu_request.v|
+!i113 0
+R20
+n@s@c@u_request
+vSCU_respond
+R21
+!i10b 1
+!s100 5j:c`^`EBB]mMTOJMD`Pn0
+In43@YhGXGIjiDizQMl0Nz3
+R16
+R5
+w1491616118
+8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu_respond.v
+FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu_respond.v
+L0 6
+R18
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu_respond.v|
+!s90 -reportprogress|300|-work|EE560CMP|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/scu_respond.v|
+!i113 0
+R20
+n@s@c@u_respond
+Estore_buffer
+R66
+R26
+R2
+R3
+R4
+R5
+Z145 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/storebuffer.vhd
+Z146 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/storebuffer.vhd
+l0
+L26
+V[bB@Q?GP]GT4U2DH?GkGm2
+!s100 H3[lAHbNjlkQ4aBCNnAz<0
+R8
+32
+R9
+!i10b 1
+R10
+Z147 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/storebuffer.vhd|
+Z148 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/storebuffer.vhd|
+!i113 0
+R13
+R14
+Astruct
+R26
+R2
+R3
+R4
+DEx4 work 12 store_buffer 0 22 [bB@Q?GP]GT4U2DH?GkGm2
+l113
+L82
+VHik53>nmE]2lPiegZ3nn_2
+!s100 D05k;dGUJ12NU1diJ;gAk1
+R8
+32
+R9
+!i10b 1
+R10
+R147
+R148
+!i113 0
+R13
+R14
+Ethread_select
+Z149 w1494181824
+R2
+R3
+R4
+R5
+Z150 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/thread_select.vhd
+Z151 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/thread_select.vhd
+l0
+L27
+VS;Lj3CITO[20Z]]aMRGG]3
+!s100 FFW;oz>lXfFRQDCW=CeB60
+R8
+32
+R9
+!i10b 1
+R10
+Z152 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/thread_select.vhd|
+Z153 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/thread_select.vhd|
+!i113 0
+R13
+R14
+Abehv
+R2
+R3
+R4
+DEx4 work 13 thread_select 0 22 S;Lj3CITO[20Z]]aMRGG]3
+l132
+L97
+VFUkF3X`@O>CbZ?1NboM5B2
+!s100 N`V[5h0mQ<MlbUEBH?1LY0
+R8
+32
+R9
+!i10b 1
+R10
+R152
+R153
+!i113 0
+R13
+R14
+Ptxt_util
+R3
+R4
+R116
+R5
+Z154 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/txt_util.vhd
+Z155 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/txt_util.vhd
+l0
+L11
+V`kU;mb7J2;m?W1A6?PjlA3
+!s100 IN82_OUzl4g<n^J872ljU3
+R8
+32
+b1
+R9
+!i10b 1
+R10
+Z156 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/txt_util.vhd|
+Z157 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/txt_util.vhd|
+!i113 0
+R13
+R14
+Bbody
+R29
+R3
+R4
+l0
+L99
+V4gY:;8S9je:lB1l5_KNoo1
+!s100 =N1i[YP77^^0_EhH3lgFf1
+R8
+32
+R9
+!i10b 1
+R10
+R156
+R157
+!i113 0
+R13
+R14
+R139
+Ewrite_mshr
+Z158 w1491616912
+R2
+R3
+R4
+R5
+Z159 8C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/write_mshr.vhd
+Z160 FC:/Users/Fangzhou/Desktop/EE560CMP/Common_files/write_mshr.vhd
+l0
+L14
+VYiWDZMVBziPY=[RoJem6N1
+!s100 ]jEX61J58T88HEO4a4TCm0
+R8
+32
+R9
+!i10b 1
+R10
+Z161 !s90 -reportprogress|300|-work|EE560CMP|-2002|-explicit|-vopt|-stats=none|C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/write_mshr.vhd|
+Z162 !s107 C:/Users/Fangzhou/Desktop/EE560CMP/Common_files/write_mshr.vhd|
+!i113 0
+R13
+R14
+Abehv
+R2
+R3
+R4
+DEx4 work 10 write_mshr 0 22 YiWDZMVBziPY=[RoJem6N1
+l82
+L59
+V8[mW[ZDFBnjCQV?LH]c_U1
+!s100 =icT:TD08>dQ1U<ZdWTX`2
+R8
+32
+R9
+!i10b 1
+R10
+R161
+R162
+!i113 0
+R13
+R14
